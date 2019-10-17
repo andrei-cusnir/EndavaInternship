@@ -3,13 +3,19 @@
     <extensionMap>
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping pattern="Insert_department" type="DBN-SQL" />
+      <mapping pattern="Insert_job_history" type="DBN-SQL" />
+      <mapping pattern="Insert_job" type="DBN-SQL" />
+      <mapping pattern="Insert_location" type="DBN-SQL" />
+      <mapping pattern="Insert_country" type="DBN-SQL" />
+      <mapping pattern="Insert_region" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
