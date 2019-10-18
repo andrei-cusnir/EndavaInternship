@@ -10,13 +10,14 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
-      <mapping pattern="Insert_department" type="DBN-SQL" />
       <mapping pattern="Insert_job_history" type="DBN-SQL" />
       <mapping pattern="Insert_job" type="DBN-SQL" />
       <mapping pattern="Insert_location" type="DBN-SQL" />
+      <mapping pattern="Insert_department" type="DBN-SQL" />
       <mapping pattern="Insert_country" type="DBN-SQL" />
       <mapping pattern="Insert_region" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Selects" type="SQL" />
     </extensionMap>
   </component>
 </application>
