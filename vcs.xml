@@ -6,8 +6,17 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="andrei-cusnir" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:ArteomBalanuta/national-buss-agency-nbc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://andrei-cusnir@bitbucket.org/ArteomBalanuta/national-buss-agency-nbc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\andcusnir\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
